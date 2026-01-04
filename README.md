@@ -62,6 +62,10 @@ The aim of this project is to develop a Student Attendance Management System tha
 
 ---
 
+## 🖼️ Output Screenshot
+
+<img width="1693" height="718" alt="Screenshot 2026-01-04 224325" src="https://github.com/user-attachments/assets/d600ce76-cf5b-41b6-943f-29ea158af485" />
+
 
 ## 🚀 Utility of the Project
 - Useful for small classrooms  
